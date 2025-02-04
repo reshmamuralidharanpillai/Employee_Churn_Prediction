@@ -20,7 +20,7 @@ Work accidents
 
 Promotion status
 
-Department (Renamed to dept)
+Sales (Renamed to dept)
 
 Salary level (Categorical: Low, Medium, High)
 
